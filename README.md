@@ -1,5 +1,8 @@
 # CineConnect
 
+CineConnect offers seamless streaming of movies and web series while fostering a vibrant community where users can engage in lively discussions about their favorite cinematic content. 
+
+
 - Login/Registration Page:
 
 ![image](https://github.com/anvita-kumar30/CineConnect/assets/109106936/76e0d713-9c4f-4b31-bedb-f1808a16a859)
